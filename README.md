@@ -66,11 +66,13 @@ Selenium is a test automation tool, i.e., using developed code, the Selenium too
 
 ![image](https://github.com/Krishnasfw/Automation-Testing/assets/105380930/a01e0c07-30af-4bbc-8c0a-627be09da0cf)
 
-**OUR PROJECT WORKSPACE AND CODING AREA IS READY!!!**
+***OUR PROJECT WORKSPACE AND CODING AREA IS READY!!!***
 
 If you get notice in to the Project structure, there is Library displayed and it flows from our JDK nothing but our JAVA platform and src (Source Folder).
 
 ![image](https://github.com/Krishnasfw/Automation-Testing/assets/105380930/701153ba-e458-4561-94af-c6ea188e70ce)
+
+**To create a new Package**
 
 Right click on the src and select the Package option for creating new package. Form the package, need to create one class. 
 
