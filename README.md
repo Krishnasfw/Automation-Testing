@@ -81,7 +81,7 @@ Right click on the src and select the Package option for creating new package. F
 Without creating a package, we able to create a class, at that time the package name takes as  a **default package**. But **src -> Package -> Class** is the right way for creating the project for Selenium. 
 
 
-**Locators**
+# Locators
       Locators are help to find the UI elements on the webpage for Selenium. 
 
 **Types of Locators**
