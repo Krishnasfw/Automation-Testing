@@ -94,10 +94,10 @@ Without creating a package, we able to create a class, at that time the package 
 ![image](https://github.com/Krishnasfw/Automation-Testing/assets/105380930/4d435c58-a2e3-470c-98d3-c9e82d7b5bf8)
 
 **Types of XPath** 
-      1. Absolute Xpath
+      **1. Absolute Xpath**
             * Absolute XPath starts from root node and ends with desired elements
             * It starts from single slash. Like full XPath
-      2. Relative XPath
+      **2. Relative XPath**
             * Relative XPath statrs from any node in between of the web element
             * It starts with double slash. Mostly we prefer this type of the XPath.
 
