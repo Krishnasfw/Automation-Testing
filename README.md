@@ -37,6 +37,7 @@ Selenium is a test automation tool, i.e., using developed code, the Selenium too
 # Pre-requisites for Selenium
  In order to understand Selenium in a better way, we need to know the below pre-requisites first:
       HTML 
+      CSS
       Locators
       Java
 
